@@ -1,6 +1,6 @@
-[This project is a simulation of a single quantum particle inside a
+This project is a simulation of a single quantum particle inside a
 bounded one-dimensional potential. It is a complex simulation that
-relies on multiple course concepts.]{.mark}
+relies on multiple course concepts.
 
 Firstly, it relies on the concept of **code reuse**: the ability to use
 existing code for a new function or program. The modular design of
